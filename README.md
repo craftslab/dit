@@ -9,6 +9,7 @@ A distributed Git repository
 ## Distributed Storage
 
 - [dragonfly](https://d7y.io/)
+- [git-lfs](https://git-lfs.com/)
 - [mega](https://github.com/web3infra-foundation/mega)
 - [toydb](https://github.com/erikgrinaker/toydb)
 
