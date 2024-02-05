@@ -1,6 +1,6 @@
-# dit
+# git-dfs
 
-A distributed Git repository
+Git distributed file storage
 
 
 
